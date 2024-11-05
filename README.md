@@ -6,6 +6,7 @@ An intelligent system for analyzing enterprise AI case studies using the Claude 
 
 <img width="946" alt="Screenshot 2024-11-05 at 4 58 41 AM" src="https://github.com/user-attachments/assets/95be2e76-12bd-4dea-bd91-1b7d309f0f6d">
 <img width="1153" alt="Screenshot 2024-11-05 at 4 58 49 AM" src="https://github.com/user-attachments/assets/7b935a1b-b79e-4fb3-85c7-cb18d48601bb">
+<img width="1433" alt="Screenshot 2024-11-05 at 4 59 11 AM" src="https://github.com/user-attachments/assets/260a5ac7-1cc5-447c-882c-ef1ba40747ca">
 <img width="1433" alt="Screenshot 2024-11-05 at 4 59 11 AM" src="https://github.com/user-attachments/assets/aec5a4ab-62a7-47a9-a277-4e7983c40f30">
 
 
